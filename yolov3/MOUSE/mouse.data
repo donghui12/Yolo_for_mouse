@@ -1,0 +1,13 @@
+classes = 1
+
+train = /home/jdh/PyProject/yolo_for_mouse/yolov3/MOUSE/train.txt
+
+
+valid = /home/jdh/PyProject/yolo_for_mouse/yolov3/MOUSE/test.txt
+
+
+name = /home/jdh/PyProject/yolo_for_mouse/yolov3/MOUSE/mouse.names
+
+
+backup = /home/jdh/PyProject/yolo_for_mouse/yolov3/MOUSE/backup/
+
